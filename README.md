@@ -1,7 +1,7 @@
 # K Sriharsha
 
 - 🌱 I’m currently learning Next.js and Java
-- 📑 Check out my resume here - [**My Resume**](https://drive.google.com/file/d/1ar7BrM_-zpcEQr4fFrVLxLfWHxsnixZl/view?usp=sharing)
+- 📑 Check out my resume here - [**My Resume**](https://drive.google.com/file/d/15ctBU1Ga9dgLeHQtRzuMQ50uvyymTW6S/view?usp=drive_link)
 - 💻 All of my projects are available on [**GitHub**](https://github.com/01Sriharsha)
 - 💬 Ask me about Programming, Web Development
 - 📫 How to reach me: harshavasu463@gmail.com
